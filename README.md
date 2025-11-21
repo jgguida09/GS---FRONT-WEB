@@ -1,6 +1,13 @@
 FutureWork Network – Plataforma React (GS 2025)
+
+link github:
+
+https://github.com/jgguida09/GS---FRONT-WEB
+
 integrantes: 
+
 Victor Oliveira Alves - 565723 
+
 Joao Guilherme Guida - 565244
 
 
