@@ -1,0 +1,2642 @@
+[
+  {
+    "id": 1,
+    "name": "Profissional 01",
+    "role": "Desenvolvedor(a) Front-end",
+    "area": "Tecnologia",
+    "city": "São Paulo - SP",
+    "avatarInitials": "P01",
+    "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
+    "skills": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL",
+      "Comunicação não violenta"
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação não violenta",
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "hobbies": [
+      "Leitura de ficção científica",
+      "Voluntariado em projetos sociais",
+      "Ciclismo urbano"
+    ],
+    "personal": {
+      "age": 22,
+      "education": "Análise e Desenvolvimento de Sistemas",
+      "institution": "FIAP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 0.5,
+      "lastRole": "Desenvolvedor(a) Front-end",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Acredita que o futuro do trabalho será híbrido, colaborativo e orientado por dados, com a tecnologia como meio para potencializar competências humanas, e não substituí-las."
+  },
+  {
+    "id": 2,
+    "name": "Profissional 02",
+    "role": "Cientista de Dados em formação",
+    "area": "Dados & IA",
+    "city": "Rio de Janeiro - RJ",
+    "avatarInitials": "P02",
+    "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
+    "skills": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI",
+      "Trabalho em equipe"
+    ],
+    "technologies": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Resolução de problemas"
+    ],
+    "hobbies": [
+      "Voluntariado em projetos sociais",
+      "Ciclismo urbano",
+      "Jogos cooperativos online"
+    ],
+    "personal": {
+      "age": 23,
+      "education": "Sistemas de Informação",
+      "institution": "USP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.2,
+      "lastRole": "Cientista de Dados em formação",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Defende ambientes de trabalho inclusivos, com trilhas de desenvolvimento personalizadas e foco em bem-estar, saúde mental e autonomia."
+  },
+  {
+    "id": 3,
+    "name": "Profissional 03",
+    "role": "Pesquisador(a) de UX",
+    "area": "Design & Experiência",
+    "city": "Belo Horizonte - MG",
+    "avatarInitials": "P03",
+    "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Pensamento crítico"
+    ],
+    "technologies": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Resolução de problemas",
+      "Empatia"
+    ],
+    "hobbies": [
+      "Ciclismo urbano",
+      "Jogos cooperativos online",
+      "Meditação e mindfulness"
+    ],
+    "personal": {
+      "age": 24,
+      "education": "Ciência de Dados",
+      "institution": "PUC-SP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.9,
+      "lastRole": "Pesquisador(a) de UX",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Vê a IA como parceira do ser humano, liberando tempo para atividades criativas, empáticas e de tomada de decisão estratégica."
+  },
+  {
+    "id": 4,
+    "name": "Profissional 04",
+    "role": "Analista de Negócios",
+    "area": "Gestão & Estratégia",
+    "city": "Curitiba - PR",
+    "avatarInitials": "P04",
+    "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "Resolução de problemas"
+    ],
+    "technologies": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Empatia",
+      "Liderança servidora"
+    ],
+    "hobbies": [
+      "Jogos cooperativos online",
+      "Meditação e mindfulness",
+      "Produção de conteúdo"
+    ],
+    "personal": {
+      "age": 25,
+      "education": "Design Digital",
+      "institution": "UFPE",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 2.6,
+      "lastRole": "Analista de Negócios",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Sonha em participar da construção de plataformas acessíveis de educação contínua, ajudando pessoas de diferentes contextos a se requalificarem para as novas economias."
+  },
+  {
+    "id": 5,
+    "name": "Profissional 05",
+    "role": "Instrutor(a) de Tecnologia",
+    "area": "Educação & Impacto Social",
+    "city": "Porto Alegre - RS",
+    "avatarInitials": "P05",
+    "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
+    "skills": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS",
+      "Empatia"
+    ],
+    "technologies": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança servidora",
+      "Gestão de tempo"
+    ],
+    "hobbies": [
+      "Meditação e mindfulness",
+      "Produção de conteúdo",
+      "Comunidades de tecnologia"
+    ],
+    "personal": {
+      "age": 26,
+      "education": "Administração com foco em Inovação",
+      "institution": "UFRGS",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 3.3,
+      "lastRole": "Instrutor(a) de Tecnologia",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Aposta em modelos de trabalho mais flexíveis e distribuídos, em que talentos possam colaborar em projetos globais sem perder o vínculo com suas comunidades locais."
+  },
+  {
+    "id": 6,
+    "name": "Profissional 06",
+    "role": "Especialista em Cultura & Engajamento",
+    "area": "People & Cultura",
+    "city": "Recife - PE",
+    "avatarInitials": "P06",
+    "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
+    "skills": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL",
+      "Liderança servidora"
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL"
+    ],
+    "softSkills": [
+      "Liderança servidora",
+      "Gestão de tempo",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Produção de conteúdo",
+      "Comunidades de tecnologia",
+      "Música e podcasts"
+    ],
+    "personal": {
+      "age": 27,
+      "education": "Engenharia de Computação",
+      "institution": "Universidade Federal de Minas Gerais",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 0.5,
+      "lastRole": "Especialista em Cultura & Engajamento",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Acredita que o futuro do trabalho será híbrido, colaborativo e orientado por dados, com a tecnologia como meio para potencializar competências humanas, e não substituí-las."
+  },
+  {
+    "id": 7,
+    "name": "Profissional 07",
+    "role": "Desenvolvedor(a) Front-end",
+    "area": "Tecnologia",
+    "city": "São Paulo - SP",
+    "avatarInitials": "P07",
+    "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
+    "skills": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI",
+      "Gestão de tempo"
+    ],
+    "technologies": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Gestão de tempo",
+      "Adaptabilidade",
+      "Visão sistêmica"
+    ],
+    "hobbies": [
+      "Comunidades de tecnologia",
+      "Música e podcasts",
+      "Culinária experimental"
+    ],
+    "personal": {
+      "age": 28,
+      "education": "Análise e Desenvolvimento de Sistemas",
+      "institution": "FIAP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.2,
+      "lastRole": "Desenvolvedor(a) Front-end",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Defende ambientes de trabalho inclusivos, com trilhas de desenvolvimento personalizadas e foco em bem-estar, saúde mental e autonomia."
+  },
+  {
+    "id": 8,
+    "name": "Profissional 08",
+    "role": "Cientista de Dados em formação",
+    "area": "Dados & IA",
+    "city": "Rio de Janeiro - RJ",
+    "avatarInitials": "P08",
+    "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Adaptabilidade"
+    ],
+    "technologies": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Visão sistêmica",
+      "Criatividade"
+    ],
+    "hobbies": [
+      "Música e podcasts",
+      "Culinária experimental",
+      "Viagens culturais"
+    ],
+    "personal": {
+      "age": 29,
+      "education": "Sistemas de Informação",
+      "institution": "USP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.9,
+      "lastRole": "Cientista de Dados em formação",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Vê a IA como parceira do ser humano, liberando tempo para atividades criativas, empáticas e de tomada de decisão estratégica."
+  },
+  {
+    "id": 9,
+    "name": "Profissional 09",
+    "role": "Pesquisador(a) de UX",
+    "area": "Design & Experiência",
+    "city": "Belo Horizonte - MG",
+    "avatarInitials": "P09",
+    "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "Visão sistêmica"
+    ],
+    "technologies": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS"
+    ],
+    "softSkills": [
+      "Visão sistêmica",
+      "Criatividade",
+      "Comunicação não violenta"
+    ],
+    "hobbies": [
+      "Culinária experimental",
+      "Viagens culturais",
+      "Leitura de ficção científica"
+    ],
+    "personal": {
+      "age": 30,
+      "education": "Ciência de Dados",
+      "institution": "PUC-SP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 2.6,
+      "lastRole": "Pesquisador(a) de UX",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Sonha em participar da construção de plataformas acessíveis de educação contínua, ajudando pessoas de diferentes contextos a se requalificarem para as novas economias."
+  },
+  {
+    "id": 10,
+    "name": "Profissional 10",
+    "role": "Analista de Negócios",
+    "area": "Gestão & Estratégia",
+    "city": "Curitiba - PR",
+    "avatarInitials": "P10",
+    "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
+    "skills": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS",
+      "Criatividade"
+    ],
+    "technologies": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação não violenta",
+      "Trabalho em equipe"
+    ],
+    "hobbies": [
+      "Viagens culturais",
+      "Leitura de ficção científica",
+      "Voluntariado em projetos sociais"
+    ],
+    "personal": {
+      "age": 31,
+      "education": "Design Digital",
+      "institution": "UFPE",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 3.3,
+      "lastRole": "Analista de Negócios",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Aposta em modelos de trabalho mais flexíveis e distribuídos, em que talentos possam colaborar em projetos globais sem perder o vínculo com suas comunidades locais."
+  },
+  {
+    "id": 11,
+    "name": "Profissional 11",
+    "role": "Instrutor(a) de Tecnologia",
+    "area": "Educação & Impacto Social",
+    "city": "Porto Alegre - RS",
+    "avatarInitials": "P11",
+    "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
+    "skills": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL",
+      "Comunicação não violenta"
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação não violenta",
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "hobbies": [
+      "Leitura de ficção científica",
+      "Voluntariado em projetos sociais",
+      "Ciclismo urbano"
+    ],
+    "personal": {
+      "age": 22,
+      "education": "Administração com foco em Inovação",
+      "institution": "UFRGS",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 0.5,
+      "lastRole": "Instrutor(a) de Tecnologia",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Acredita que o futuro do trabalho será híbrido, colaborativo e orientado por dados, com a tecnologia como meio para potencializar competências humanas, e não substituí-las."
+  },
+  {
+    "id": 12,
+    "name": "Profissional 12",
+    "role": "Especialista em Cultura & Engajamento",
+    "area": "People & Cultura",
+    "city": "Recife - PE",
+    "avatarInitials": "P12",
+    "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
+    "skills": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI",
+      "Trabalho em equipe"
+    ],
+    "technologies": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Resolução de problemas"
+    ],
+    "hobbies": [
+      "Voluntariado em projetos sociais",
+      "Ciclismo urbano",
+      "Jogos cooperativos online"
+    ],
+    "personal": {
+      "age": 23,
+      "education": "Engenharia de Computação",
+      "institution": "Universidade Federal de Minas Gerais",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.2,
+      "lastRole": "Especialista em Cultura & Engajamento",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Defende ambientes de trabalho inclusivos, com trilhas de desenvolvimento personalizadas e foco em bem-estar, saúde mental e autonomia."
+  },
+  {
+    "id": 13,
+    "name": "Profissional 13",
+    "role": "Desenvolvedor(a) Front-end",
+    "area": "Tecnologia",
+    "city": "São Paulo - SP",
+    "avatarInitials": "P13",
+    "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Pensamento crítico"
+    ],
+    "technologies": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Resolução de problemas",
+      "Empatia"
+    ],
+    "hobbies": [
+      "Ciclismo urbano",
+      "Jogos cooperativos online",
+      "Meditação e mindfulness"
+    ],
+    "personal": {
+      "age": 24,
+      "education": "Análise e Desenvolvimento de Sistemas",
+      "institution": "FIAP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.9,
+      "lastRole": "Desenvolvedor(a) Front-end",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Vê a IA como parceira do ser humano, liberando tempo para atividades criativas, empáticas e de tomada de decisão estratégica."
+  },
+  {
+    "id": 14,
+    "name": "Profissional 14",
+    "role": "Cientista de Dados em formação",
+    "area": "Dados & IA",
+    "city": "Rio de Janeiro - RJ",
+    "avatarInitials": "P14",
+    "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "Resolução de problemas"
+    ],
+    "technologies": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Empatia",
+      "Liderança servidora"
+    ],
+    "hobbies": [
+      "Jogos cooperativos online",
+      "Meditação e mindfulness",
+      "Produção de conteúdo"
+    ],
+    "personal": {
+      "age": 25,
+      "education": "Sistemas de Informação",
+      "institution": "USP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 2.6,
+      "lastRole": "Cientista de Dados em formação",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Sonha em participar da construção de plataformas acessíveis de educação contínua, ajudando pessoas de diferentes contextos a se requalificarem para as novas economias."
+  },
+  {
+    "id": 15,
+    "name": "Profissional 15",
+    "role": "Pesquisador(a) de UX",
+    "area": "Design & Experiência",
+    "city": "Belo Horizonte - MG",
+    "avatarInitials": "P15",
+    "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
+    "skills": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS",
+      "Empatia"
+    ],
+    "technologies": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança servidora",
+      "Gestão de tempo"
+    ],
+    "hobbies": [
+      "Meditação e mindfulness",
+      "Produção de conteúdo",
+      "Comunidades de tecnologia"
+    ],
+    "personal": {
+      "age": 26,
+      "education": "Ciência de Dados",
+      "institution": "PUC-SP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 3.3,
+      "lastRole": "Pesquisador(a) de UX",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Aposta em modelos de trabalho mais flexíveis e distribuídos, em que talentos possam colaborar em projetos globais sem perder o vínculo com suas comunidades locais."
+  },
+  {
+    "id": 16,
+    "name": "Profissional 16",
+    "role": "Analista de Negócios",
+    "area": "Gestão & Estratégia",
+    "city": "Curitiba - PR",
+    "avatarInitials": "P16",
+    "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
+    "skills": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL",
+      "Liderança servidora"
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL"
+    ],
+    "softSkills": [
+      "Liderança servidora",
+      "Gestão de tempo",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Produção de conteúdo",
+      "Comunidades de tecnologia",
+      "Música e podcasts"
+    ],
+    "personal": {
+      "age": 27,
+      "education": "Design Digital",
+      "institution": "UFPE",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 0.5,
+      "lastRole": "Analista de Negócios",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Acredita que o futuro do trabalho será híbrido, colaborativo e orientado por dados, com a tecnologia como meio para potencializar competências humanas, e não substituí-las."
+  },
+  {
+    "id": 17,
+    "name": "Profissional 17",
+    "role": "Instrutor(a) de Tecnologia",
+    "area": "Educação & Impacto Social",
+    "city": "Porto Alegre - RS",
+    "avatarInitials": "P17",
+    "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
+    "skills": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI",
+      "Gestão de tempo"
+    ],
+    "technologies": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Gestão de tempo",
+      "Adaptabilidade",
+      "Visão sistêmica"
+    ],
+    "hobbies": [
+      "Comunidades de tecnologia",
+      "Música e podcasts",
+      "Culinária experimental"
+    ],
+    "personal": {
+      "age": 28,
+      "education": "Administração com foco em Inovação",
+      "institution": "UFRGS",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.2,
+      "lastRole": "Instrutor(a) de Tecnologia",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Defende ambientes de trabalho inclusivos, com trilhas de desenvolvimento personalizadas e foco em bem-estar, saúde mental e autonomia."
+  },
+  {
+    "id": 18,
+    "name": "Profissional 18",
+    "role": "Especialista em Cultura & Engajamento",
+    "area": "People & Cultura",
+    "city": "Recife - PE",
+    "avatarInitials": "P18",
+    "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Adaptabilidade"
+    ],
+    "technologies": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Visão sistêmica",
+      "Criatividade"
+    ],
+    "hobbies": [
+      "Música e podcasts",
+      "Culinária experimental",
+      "Viagens culturais"
+    ],
+    "personal": {
+      "age": 29,
+      "education": "Engenharia de Computação",
+      "institution": "Universidade Federal de Minas Gerais",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.9,
+      "lastRole": "Especialista em Cultura & Engajamento",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Vê a IA como parceira do ser humano, liberando tempo para atividades criativas, empáticas e de tomada de decisão estratégica."
+  },
+  {
+    "id": 19,
+    "name": "Profissional 19",
+    "role": "Desenvolvedor(a) Front-end",
+    "area": "Tecnologia",
+    "city": "São Paulo - SP",
+    "avatarInitials": "P19",
+    "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "Visão sistêmica"
+    ],
+    "technologies": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS"
+    ],
+    "softSkills": [
+      "Visão sistêmica",
+      "Criatividade",
+      "Comunicação não violenta"
+    ],
+    "hobbies": [
+      "Culinária experimental",
+      "Viagens culturais",
+      "Leitura de ficção científica"
+    ],
+    "personal": {
+      "age": 30,
+      "education": "Análise e Desenvolvimento de Sistemas",
+      "institution": "FIAP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 2.6,
+      "lastRole": "Desenvolvedor(a) Front-end",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Sonha em participar da construção de plataformas acessíveis de educação contínua, ajudando pessoas de diferentes contextos a se requalificarem para as novas economias."
+  },
+  {
+    "id": 20,
+    "name": "Profissional 20",
+    "role": "Cientista de Dados em formação",
+    "area": "Dados & IA",
+    "city": "Rio de Janeiro - RJ",
+    "avatarInitials": "P20",
+    "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
+    "skills": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS",
+      "Criatividade"
+    ],
+    "technologies": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação não violenta",
+      "Trabalho em equipe"
+    ],
+    "hobbies": [
+      "Viagens culturais",
+      "Leitura de ficção científica",
+      "Voluntariado em projetos sociais"
+    ],
+    "personal": {
+      "age": 31,
+      "education": "Sistemas de Informação",
+      "institution": "USP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 3.3,
+      "lastRole": "Cientista de Dados em formação",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Aposta em modelos de trabalho mais flexíveis e distribuídos, em que talentos possam colaborar em projetos globais sem perder o vínculo com suas comunidades locais."
+  },
+  {
+    "id": 21,
+    "name": "Profissional 21",
+    "role": "Pesquisador(a) de UX",
+    "area": "Design & Experiência",
+    "city": "Belo Horizonte - MG",
+    "avatarInitials": "P21",
+    "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
+    "skills": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL",
+      "Comunicação não violenta"
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação não violenta",
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "hobbies": [
+      "Leitura de ficção científica",
+      "Voluntariado em projetos sociais",
+      "Ciclismo urbano"
+    ],
+    "personal": {
+      "age": 22,
+      "education": "Ciência de Dados",
+      "institution": "PUC-SP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 0.5,
+      "lastRole": "Pesquisador(a) de UX",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Acredita que o futuro do trabalho será híbrido, colaborativo e orientado por dados, com a tecnologia como meio para potencializar competências humanas, e não substituí-las."
+  },
+  {
+    "id": 22,
+    "name": "Profissional 22",
+    "role": "Analista de Negócios",
+    "area": "Gestão & Estratégia",
+    "city": "Curitiba - PR",
+    "avatarInitials": "P22",
+    "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
+    "skills": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI",
+      "Trabalho em equipe"
+    ],
+    "technologies": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Resolução de problemas"
+    ],
+    "hobbies": [
+      "Voluntariado em projetos sociais",
+      "Ciclismo urbano",
+      "Jogos cooperativos online"
+    ],
+    "personal": {
+      "age": 23,
+      "education": "Design Digital",
+      "institution": "UFPE",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.2,
+      "lastRole": "Analista de Negócios",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Defende ambientes de trabalho inclusivos, com trilhas de desenvolvimento personalizadas e foco em bem-estar, saúde mental e autonomia."
+  },
+  {
+    "id": 23,
+    "name": "Profissional 23",
+    "role": "Instrutor(a) de Tecnologia",
+    "area": "Educação & Impacto Social",
+    "city": "Porto Alegre - RS",
+    "avatarInitials": "P23",
+    "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Pensamento crítico"
+    ],
+    "technologies": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Resolução de problemas",
+      "Empatia"
+    ],
+    "hobbies": [
+      "Ciclismo urbano",
+      "Jogos cooperativos online",
+      "Meditação e mindfulness"
+    ],
+    "personal": {
+      "age": 24,
+      "education": "Administração com foco em Inovação",
+      "institution": "UFRGS",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.9,
+      "lastRole": "Instrutor(a) de Tecnologia",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Vê a IA como parceira do ser humano, liberando tempo para atividades criativas, empáticas e de tomada de decisão estratégica."
+  },
+  {
+    "id": 24,
+    "name": "Profissional 24",
+    "role": "Especialista em Cultura & Engajamento",
+    "area": "People & Cultura",
+    "city": "Recife - PE",
+    "avatarInitials": "P24",
+    "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "Resolução de problemas"
+    ],
+    "technologies": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Empatia",
+      "Liderança servidora"
+    ],
+    "hobbies": [
+      "Jogos cooperativos online",
+      "Meditação e mindfulness",
+      "Produção de conteúdo"
+    ],
+    "personal": {
+      "age": 25,
+      "education": "Engenharia de Computação",
+      "institution": "Universidade Federal de Minas Gerais",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 2.6,
+      "lastRole": "Especialista em Cultura & Engajamento",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Sonha em participar da construção de plataformas acessíveis de educação contínua, ajudando pessoas de diferentes contextos a se requalificarem para as novas economias."
+  },
+  {
+    "id": 25,
+    "name": "Profissional 25",
+    "role": "Desenvolvedor(a) Front-end",
+    "area": "Tecnologia",
+    "city": "São Paulo - SP",
+    "avatarInitials": "P25",
+    "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
+    "skills": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS",
+      "Empatia"
+    ],
+    "technologies": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança servidora",
+      "Gestão de tempo"
+    ],
+    "hobbies": [
+      "Meditação e mindfulness",
+      "Produção de conteúdo",
+      "Comunidades de tecnologia"
+    ],
+    "personal": {
+      "age": 26,
+      "education": "Análise e Desenvolvimento de Sistemas",
+      "institution": "FIAP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 3.3,
+      "lastRole": "Desenvolvedor(a) Front-end",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Aposta em modelos de trabalho mais flexíveis e distribuídos, em que talentos possam colaborar em projetos globais sem perder o vínculo com suas comunidades locais."
+  },
+  {
+    "id": 26,
+    "name": "Profissional 26",
+    "role": "Cientista de Dados em formação",
+    "area": "Dados & IA",
+    "city": "Rio de Janeiro - RJ",
+    "avatarInitials": "P26",
+    "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
+    "skills": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL",
+      "Liderança servidora"
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL"
+    ],
+    "softSkills": [
+      "Liderança servidora",
+      "Gestão de tempo",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Produção de conteúdo",
+      "Comunidades de tecnologia",
+      "Música e podcasts"
+    ],
+    "personal": {
+      "age": 27,
+      "education": "Sistemas de Informação",
+      "institution": "USP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 0.5,
+      "lastRole": "Cientista de Dados em formação",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Acredita que o futuro do trabalho será híbrido, colaborativo e orientado por dados, com a tecnologia como meio para potencializar competências humanas, e não substituí-las."
+  },
+  {
+    "id": 27,
+    "name": "Profissional 27",
+    "role": "Pesquisador(a) de UX",
+    "area": "Design & Experiência",
+    "city": "Belo Horizonte - MG",
+    "avatarInitials": "P27",
+    "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
+    "skills": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI",
+      "Gestão de tempo"
+    ],
+    "technologies": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Gestão de tempo",
+      "Adaptabilidade",
+      "Visão sistêmica"
+    ],
+    "hobbies": [
+      "Comunidades de tecnologia",
+      "Música e podcasts",
+      "Culinária experimental"
+    ],
+    "personal": {
+      "age": 28,
+      "education": "Ciência de Dados",
+      "institution": "PUC-SP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.2,
+      "lastRole": "Pesquisador(a) de UX",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Defende ambientes de trabalho inclusivos, com trilhas de desenvolvimento personalizadas e foco em bem-estar, saúde mental e autonomia."
+  },
+  {
+    "id": 28,
+    "name": "Profissional 28",
+    "role": "Analista de Negócios",
+    "area": "Gestão & Estratégia",
+    "city": "Curitiba - PR",
+    "avatarInitials": "P28",
+    "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Adaptabilidade"
+    ],
+    "technologies": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Visão sistêmica",
+      "Criatividade"
+    ],
+    "hobbies": [
+      "Música e podcasts",
+      "Culinária experimental",
+      "Viagens culturais"
+    ],
+    "personal": {
+      "age": 29,
+      "education": "Design Digital",
+      "institution": "UFPE",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.9,
+      "lastRole": "Analista de Negócios",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Vê a IA como parceira do ser humano, liberando tempo para atividades criativas, empáticas e de tomada de decisão estratégica."
+  },
+  {
+    "id": 29,
+    "name": "Profissional 29",
+    "role": "Instrutor(a) de Tecnologia",
+    "area": "Educação & Impacto Social",
+    "city": "Porto Alegre - RS",
+    "avatarInitials": "P29",
+    "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "Visão sistêmica"
+    ],
+    "technologies": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS"
+    ],
+    "softSkills": [
+      "Visão sistêmica",
+      "Criatividade",
+      "Comunicação não violenta"
+    ],
+    "hobbies": [
+      "Culinária experimental",
+      "Viagens culturais",
+      "Leitura de ficção científica"
+    ],
+    "personal": {
+      "age": 30,
+      "education": "Administração com foco em Inovação",
+      "institution": "UFRGS",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 2.6,
+      "lastRole": "Instrutor(a) de Tecnologia",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Sonha em participar da construção de plataformas acessíveis de educação contínua, ajudando pessoas de diferentes contextos a se requalificarem para as novas economias."
+  },
+  {
+    "id": 30,
+    "name": "Profissional 30",
+    "role": "Especialista em Cultura & Engajamento",
+    "area": "People & Cultura",
+    "city": "Recife - PE",
+    "avatarInitials": "P30",
+    "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
+    "skills": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS",
+      "Criatividade"
+    ],
+    "technologies": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação não violenta",
+      "Trabalho em equipe"
+    ],
+    "hobbies": [
+      "Viagens culturais",
+      "Leitura de ficção científica",
+      "Voluntariado em projetos sociais"
+    ],
+    "personal": {
+      "age": 31,
+      "education": "Engenharia de Computação",
+      "institution": "Universidade Federal de Minas Gerais",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 3.3,
+      "lastRole": "Especialista em Cultura & Engajamento",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Aposta em modelos de trabalho mais flexíveis e distribuídos, em que talentos possam colaborar em projetos globais sem perder o vínculo com suas comunidades locais."
+  },
+  {
+    "id": 31,
+    "name": "Profissional 31",
+    "role": "Desenvolvedor(a) Front-end",
+    "area": "Tecnologia",
+    "city": "São Paulo - SP",
+    "avatarInitials": "P31",
+    "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
+    "skills": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL",
+      "Comunicação não violenta"
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação não violenta",
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "hobbies": [
+      "Leitura de ficção científica",
+      "Voluntariado em projetos sociais",
+      "Ciclismo urbano"
+    ],
+    "personal": {
+      "age": 22,
+      "education": "Análise e Desenvolvimento de Sistemas",
+      "institution": "FIAP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 0.5,
+      "lastRole": "Desenvolvedor(a) Front-end",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Acredita que o futuro do trabalho será híbrido, colaborativo e orientado por dados, com a tecnologia como meio para potencializar competências humanas, e não substituí-las."
+  },
+  {
+    "id": 32,
+    "name": "Profissional 32",
+    "role": "Cientista de Dados em formação",
+    "area": "Dados & IA",
+    "city": "Rio de Janeiro - RJ",
+    "avatarInitials": "P32",
+    "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
+    "skills": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI",
+      "Trabalho em equipe"
+    ],
+    "technologies": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Resolução de problemas"
+    ],
+    "hobbies": [
+      "Voluntariado em projetos sociais",
+      "Ciclismo urbano",
+      "Jogos cooperativos online"
+    ],
+    "personal": {
+      "age": 23,
+      "education": "Sistemas de Informação",
+      "institution": "USP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.2,
+      "lastRole": "Cientista de Dados em formação",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Defende ambientes de trabalho inclusivos, com trilhas de desenvolvimento personalizadas e foco em bem-estar, saúde mental e autonomia."
+  },
+  {
+    "id": 33,
+    "name": "Profissional 33",
+    "role": "Pesquisador(a) de UX",
+    "area": "Design & Experiência",
+    "city": "Belo Horizonte - MG",
+    "avatarInitials": "P33",
+    "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Pensamento crítico"
+    ],
+    "technologies": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Resolução de problemas",
+      "Empatia"
+    ],
+    "hobbies": [
+      "Ciclismo urbano",
+      "Jogos cooperativos online",
+      "Meditação e mindfulness"
+    ],
+    "personal": {
+      "age": 24,
+      "education": "Ciência de Dados",
+      "institution": "PUC-SP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.9,
+      "lastRole": "Pesquisador(a) de UX",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Vê a IA como parceira do ser humano, liberando tempo para atividades criativas, empáticas e de tomada de decisão estratégica."
+  },
+  {
+    "id": 34,
+    "name": "Profissional 34",
+    "role": "Analista de Negócios",
+    "area": "Gestão & Estratégia",
+    "city": "Curitiba - PR",
+    "avatarInitials": "P34",
+    "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "Resolução de problemas"
+    ],
+    "technologies": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Empatia",
+      "Liderança servidora"
+    ],
+    "hobbies": [
+      "Jogos cooperativos online",
+      "Meditação e mindfulness",
+      "Produção de conteúdo"
+    ],
+    "personal": {
+      "age": 25,
+      "education": "Design Digital",
+      "institution": "UFPE",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 2.6,
+      "lastRole": "Analista de Negócios",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Sonha em participar da construção de plataformas acessíveis de educação contínua, ajudando pessoas de diferentes contextos a se requalificarem para as novas economias."
+  },
+  {
+    "id": 35,
+    "name": "Profissional 35",
+    "role": "Instrutor(a) de Tecnologia",
+    "area": "Educação & Impacto Social",
+    "city": "Porto Alegre - RS",
+    "avatarInitials": "P35",
+    "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
+    "skills": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS",
+      "Empatia"
+    ],
+    "technologies": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança servidora",
+      "Gestão de tempo"
+    ],
+    "hobbies": [
+      "Meditação e mindfulness",
+      "Produção de conteúdo",
+      "Comunidades de tecnologia"
+    ],
+    "personal": {
+      "age": 26,
+      "education": "Administração com foco em Inovação",
+      "institution": "UFRGS",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 3.3,
+      "lastRole": "Instrutor(a) de Tecnologia",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Aposta em modelos de trabalho mais flexíveis e distribuídos, em que talentos possam colaborar em projetos globais sem perder o vínculo com suas comunidades locais."
+  },
+  {
+    "id": 36,
+    "name": "Profissional 36",
+    "role": "Especialista em Cultura & Engajamento",
+    "area": "People & Cultura",
+    "city": "Recife - PE",
+    "avatarInitials": "P36",
+    "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
+    "skills": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL",
+      "Liderança servidora"
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL"
+    ],
+    "softSkills": [
+      "Liderança servidora",
+      "Gestão de tempo",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Produção de conteúdo",
+      "Comunidades de tecnologia",
+      "Música e podcasts"
+    ],
+    "personal": {
+      "age": 27,
+      "education": "Engenharia de Computação",
+      "institution": "Universidade Federal de Minas Gerais",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 0.5,
+      "lastRole": "Especialista em Cultura & Engajamento",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Acredita que o futuro do trabalho será híbrido, colaborativo e orientado por dados, com a tecnologia como meio para potencializar competências humanas, e não substituí-las."
+  },
+  {
+    "id": 37,
+    "name": "Profissional 37",
+    "role": "Desenvolvedor(a) Front-end",
+    "area": "Tecnologia",
+    "city": "São Paulo - SP",
+    "avatarInitials": "P37",
+    "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
+    "skills": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI",
+      "Gestão de tempo"
+    ],
+    "technologies": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Gestão de tempo",
+      "Adaptabilidade",
+      "Visão sistêmica"
+    ],
+    "hobbies": [
+      "Comunidades de tecnologia",
+      "Música e podcasts",
+      "Culinária experimental"
+    ],
+    "personal": {
+      "age": 28,
+      "education": "Análise e Desenvolvimento de Sistemas",
+      "institution": "FIAP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.2,
+      "lastRole": "Desenvolvedor(a) Front-end",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Defende ambientes de trabalho inclusivos, com trilhas de desenvolvimento personalizadas e foco em bem-estar, saúde mental e autonomia."
+  },
+  {
+    "id": 38,
+    "name": "Profissional 38",
+    "role": "Cientista de Dados em formação",
+    "area": "Dados & IA",
+    "city": "Rio de Janeiro - RJ",
+    "avatarInitials": "P38",
+    "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Adaptabilidade"
+    ],
+    "technologies": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Visão sistêmica",
+      "Criatividade"
+    ],
+    "hobbies": [
+      "Música e podcasts",
+      "Culinária experimental",
+      "Viagens culturais"
+    ],
+    "personal": {
+      "age": 29,
+      "education": "Sistemas de Informação",
+      "institution": "USP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.9,
+      "lastRole": "Cientista de Dados em formação",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Vê a IA como parceira do ser humano, liberando tempo para atividades criativas, empáticas e de tomada de decisão estratégica."
+  },
+  {
+    "id": 39,
+    "name": "Profissional 39",
+    "role": "Pesquisador(a) de UX",
+    "area": "Design & Experiência",
+    "city": "Belo Horizonte - MG",
+    "avatarInitials": "P39",
+    "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "Visão sistêmica"
+    ],
+    "technologies": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS"
+    ],
+    "softSkills": [
+      "Visão sistêmica",
+      "Criatividade",
+      "Comunicação não violenta"
+    ],
+    "hobbies": [
+      "Culinária experimental",
+      "Viagens culturais",
+      "Leitura de ficção científica"
+    ],
+    "personal": {
+      "age": 30,
+      "education": "Ciência de Dados",
+      "institution": "PUC-SP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 2.6,
+      "lastRole": "Pesquisador(a) de UX",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Sonha em participar da construção de plataformas acessíveis de educação contínua, ajudando pessoas de diferentes contextos a se requalificarem para as novas economias."
+  },
+  {
+    "id": 40,
+    "name": "Profissional 40",
+    "role": "Analista de Negócios",
+    "area": "Gestão & Estratégia",
+    "city": "Curitiba - PR",
+    "avatarInitials": "P40",
+    "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
+    "skills": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS",
+      "Criatividade"
+    ],
+    "technologies": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação não violenta",
+      "Trabalho em equipe"
+    ],
+    "hobbies": [
+      "Viagens culturais",
+      "Leitura de ficção científica",
+      "Voluntariado em projetos sociais"
+    ],
+    "personal": {
+      "age": 31,
+      "education": "Design Digital",
+      "institution": "UFPE",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 3.3,
+      "lastRole": "Analista de Negócios",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Aposta em modelos de trabalho mais flexíveis e distribuídos, em que talentos possam colaborar em projetos globais sem perder o vínculo com suas comunidades locais."
+  },
+  {
+    "id": 41,
+    "name": "Profissional 41",
+    "role": "Instrutor(a) de Tecnologia",
+    "area": "Educação & Impacto Social",
+    "city": "Porto Alegre - RS",
+    "avatarInitials": "P41",
+    "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
+    "skills": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL",
+      "Comunicação não violenta"
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação não violenta",
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "hobbies": [
+      "Leitura de ficção científica",
+      "Voluntariado em projetos sociais",
+      "Ciclismo urbano"
+    ],
+    "personal": {
+      "age": 22,
+      "education": "Administração com foco em Inovação",
+      "institution": "UFRGS",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 0.5,
+      "lastRole": "Instrutor(a) de Tecnologia",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Acredita que o futuro do trabalho será híbrido, colaborativo e orientado por dados, com a tecnologia como meio para potencializar competências humanas, e não substituí-las."
+  },
+  {
+    "id": 42,
+    "name": "Profissional 42",
+    "role": "Especialista em Cultura & Engajamento",
+    "area": "People & Cultura",
+    "city": "Recife - PE",
+    "avatarInitials": "P42",
+    "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
+    "skills": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI",
+      "Trabalho em equipe"
+    ],
+    "technologies": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Resolução de problemas"
+    ],
+    "hobbies": [
+      "Voluntariado em projetos sociais",
+      "Ciclismo urbano",
+      "Jogos cooperativos online"
+    ],
+    "personal": {
+      "age": 23,
+      "education": "Engenharia de Computação",
+      "institution": "Universidade Federal de Minas Gerais",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.2,
+      "lastRole": "Especialista em Cultura & Engajamento",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Defende ambientes de trabalho inclusivos, com trilhas de desenvolvimento personalizadas e foco em bem-estar, saúde mental e autonomia."
+  },
+  {
+    "id": 43,
+    "name": "Profissional 43",
+    "role": "Desenvolvedor(a) Front-end",
+    "area": "Tecnologia",
+    "city": "São Paulo - SP",
+    "avatarInitials": "P43",
+    "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Pensamento crítico"
+    ],
+    "technologies": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Resolução de problemas",
+      "Empatia"
+    ],
+    "hobbies": [
+      "Ciclismo urbano",
+      "Jogos cooperativos online",
+      "Meditação e mindfulness"
+    ],
+    "personal": {
+      "age": 24,
+      "education": "Análise e Desenvolvimento de Sistemas",
+      "institution": "FIAP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.9,
+      "lastRole": "Desenvolvedor(a) Front-end",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Vê a IA como parceira do ser humano, liberando tempo para atividades criativas, empáticas e de tomada de decisão estratégica."
+  },
+  {
+    "id": 44,
+    "name": "Profissional 44",
+    "role": "Cientista de Dados em formação",
+    "area": "Dados & IA",
+    "city": "Rio de Janeiro - RJ",
+    "avatarInitials": "P44",
+    "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "Resolução de problemas"
+    ],
+    "technologies": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Empatia",
+      "Liderança servidora"
+    ],
+    "hobbies": [
+      "Jogos cooperativos online",
+      "Meditação e mindfulness",
+      "Produção de conteúdo"
+    ],
+    "personal": {
+      "age": 25,
+      "education": "Sistemas de Informação",
+      "institution": "USP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 2.6,
+      "lastRole": "Cientista de Dados em formação",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Sonha em participar da construção de plataformas acessíveis de educação contínua, ajudando pessoas de diferentes contextos a se requalificarem para as novas economias."
+  },
+  {
+    "id": 45,
+    "name": "Profissional 45",
+    "role": "Pesquisador(a) de UX",
+    "area": "Design & Experiência",
+    "city": "Belo Horizonte - MG",
+    "avatarInitials": "P45",
+    "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
+    "skills": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS",
+      "Empatia"
+    ],
+    "technologies": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança servidora",
+      "Gestão de tempo"
+    ],
+    "hobbies": [
+      "Meditação e mindfulness",
+      "Produção de conteúdo",
+      "Comunidades de tecnologia"
+    ],
+    "personal": {
+      "age": 26,
+      "education": "Ciência de Dados",
+      "institution": "PUC-SP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 3.3,
+      "lastRole": "Pesquisador(a) de UX",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Aposta em modelos de trabalho mais flexíveis e distribuídos, em que talentos possam colaborar em projetos globais sem perder o vínculo com suas comunidades locais."
+  },
+  {
+    "id": 46,
+    "name": "Profissional 46",
+    "role": "Analista de Negócios",
+    "area": "Gestão & Estratégia",
+    "city": "Curitiba - PR",
+    "avatarInitials": "P46",
+    "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
+    "skills": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL",
+      "Liderança servidora"
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL"
+    ],
+    "softSkills": [
+      "Liderança servidora",
+      "Gestão de tempo",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Produção de conteúdo",
+      "Comunidades de tecnologia",
+      "Música e podcasts"
+    ],
+    "personal": {
+      "age": 27,
+      "education": "Design Digital",
+      "institution": "UFPE",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 0.5,
+      "lastRole": "Analista de Negócios",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Acredita que o futuro do trabalho será híbrido, colaborativo e orientado por dados, com a tecnologia como meio para potencializar competências humanas, e não substituí-las."
+  },
+  {
+    "id": 47,
+    "name": "Profissional 47",
+    "role": "Instrutor(a) de Tecnologia",
+    "area": "Educação & Impacto Social",
+    "city": "Porto Alegre - RS",
+    "avatarInitials": "P47",
+    "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
+    "skills": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI",
+      "Gestão de tempo"
+    ],
+    "technologies": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Gestão de tempo",
+      "Adaptabilidade",
+      "Visão sistêmica"
+    ],
+    "hobbies": [
+      "Comunidades de tecnologia",
+      "Música e podcasts",
+      "Culinária experimental"
+    ],
+    "personal": {
+      "age": 28,
+      "education": "Administração com foco em Inovação",
+      "institution": "UFRGS",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.2,
+      "lastRole": "Instrutor(a) de Tecnologia",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Defende ambientes de trabalho inclusivos, com trilhas de desenvolvimento personalizadas e foco em bem-estar, saúde mental e autonomia."
+  },
+  {
+    "id": 48,
+    "name": "Profissional 48",
+    "role": "Especialista em Cultura & Engajamento",
+    "area": "People & Cultura",
+    "city": "Recife - PE",
+    "avatarInitials": "P48",
+    "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Adaptabilidade"
+    ],
+    "technologies": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Visão sistêmica",
+      "Criatividade"
+    ],
+    "hobbies": [
+      "Música e podcasts",
+      "Culinária experimental",
+      "Viagens culturais"
+    ],
+    "personal": {
+      "age": 29,
+      "education": "Engenharia de Computação",
+      "institution": "Universidade Federal de Minas Gerais",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.9,
+      "lastRole": "Especialista em Cultura & Engajamento",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Vê a IA como parceira do ser humano, liberando tempo para atividades criativas, empáticas e de tomada de decisão estratégica."
+  },
+  {
+    "id": 49,
+    "name": "Profissional 49",
+    "role": "Desenvolvedor(a) Front-end",
+    "area": "Tecnologia",
+    "city": "São Paulo - SP",
+    "avatarInitials": "P49",
+    "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "Visão sistêmica"
+    ],
+    "technologies": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS"
+    ],
+    "softSkills": [
+      "Visão sistêmica",
+      "Criatividade",
+      "Comunicação não violenta"
+    ],
+    "hobbies": [
+      "Culinária experimental",
+      "Viagens culturais",
+      "Leitura de ficção científica"
+    ],
+    "personal": {
+      "age": 30,
+      "education": "Análise e Desenvolvimento de Sistemas",
+      "institution": "FIAP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 2.6,
+      "lastRole": "Desenvolvedor(a) Front-end",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Sonha em participar da construção de plataformas acessíveis de educação contínua, ajudando pessoas de diferentes contextos a se requalificarem para as novas economias."
+  },
+  {
+    "id": 50,
+    "name": "Profissional 50",
+    "role": "Cientista de Dados em formação",
+    "area": "Dados & IA",
+    "city": "Rio de Janeiro - RJ",
+    "avatarInitials": "P50",
+    "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
+    "skills": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS",
+      "Criatividade"
+    ],
+    "technologies": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação não violenta",
+      "Trabalho em equipe"
+    ],
+    "hobbies": [
+      "Viagens culturais",
+      "Leitura de ficção científica",
+      "Voluntariado em projetos sociais"
+    ],
+    "personal": {
+      "age": 31,
+      "education": "Sistemas de Informação",
+      "institution": "USP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 3.3,
+      "lastRole": "Cientista de Dados em formação",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Aposta em modelos de trabalho mais flexíveis e distribuídos, em que talentos possam colaborar em projetos globais sem perder o vínculo com suas comunidades locais."
+  },
+  {
+    "id": 51,
+    "name": "Profissional 51",
+    "role": "Pesquisador(a) de UX",
+    "area": "Design & Experiência",
+    "city": "Belo Horizonte - MG",
+    "avatarInitials": "P51",
+    "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
+    "skills": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL",
+      "Comunicação não violenta"
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação não violenta",
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "hobbies": [
+      "Leitura de ficção científica",
+      "Voluntariado em projetos sociais",
+      "Ciclismo urbano"
+    ],
+    "personal": {
+      "age": 22,
+      "education": "Ciência de Dados",
+      "institution": "PUC-SP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 0.5,
+      "lastRole": "Pesquisador(a) de UX",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Acredita que o futuro do trabalho será híbrido, colaborativo e orientado por dados, com a tecnologia como meio para potencializar competências humanas, e não substituí-las."
+  },
+  {
+    "id": 52,
+    "name": "Profissional 52",
+    "role": "Analista de Negócios",
+    "area": "Gestão & Estratégia",
+    "city": "Curitiba - PR",
+    "avatarInitials": "P52",
+    "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
+    "skills": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI",
+      "Trabalho em equipe"
+    ],
+    "technologies": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Resolução de problemas"
+    ],
+    "hobbies": [
+      "Voluntariado em projetos sociais",
+      "Ciclismo urbano",
+      "Jogos cooperativos online"
+    ],
+    "personal": {
+      "age": 23,
+      "education": "Design Digital",
+      "institution": "UFPE",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.2,
+      "lastRole": "Analista de Negócios",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Defende ambientes de trabalho inclusivos, com trilhas de desenvolvimento personalizadas e foco em bem-estar, saúde mental e autonomia."
+  },
+  {
+    "id": 53,
+    "name": "Profissional 53",
+    "role": "Instrutor(a) de Tecnologia",
+    "area": "Educação & Impacto Social",
+    "city": "Porto Alegre - RS",
+    "avatarInitials": "P53",
+    "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Pensamento crítico"
+    ],
+    "technologies": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Resolução de problemas",
+      "Empatia"
+    ],
+    "hobbies": [
+      "Ciclismo urbano",
+      "Jogos cooperativos online",
+      "Meditação e mindfulness"
+    ],
+    "personal": {
+      "age": 24,
+      "education": "Administração com foco em Inovação",
+      "institution": "UFRGS",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.9,
+      "lastRole": "Instrutor(a) de Tecnologia",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Vê a IA como parceira do ser humano, liberando tempo para atividades criativas, empáticas e de tomada de decisão estratégica."
+  },
+  {
+    "id": 54,
+    "name": "Profissional 54",
+    "role": "Especialista em Cultura & Engajamento",
+    "area": "People & Cultura",
+    "city": "Recife - PE",
+    "avatarInitials": "P54",
+    "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "Resolução de problemas"
+    ],
+    "technologies": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Empatia",
+      "Liderança servidora"
+    ],
+    "hobbies": [
+      "Jogos cooperativos online",
+      "Meditação e mindfulness",
+      "Produção de conteúdo"
+    ],
+    "personal": {
+      "age": 25,
+      "education": "Engenharia de Computação",
+      "institution": "Universidade Federal de Minas Gerais",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 2.6,
+      "lastRole": "Especialista em Cultura & Engajamento",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Sonha em participar da construção de plataformas acessíveis de educação contínua, ajudando pessoas de diferentes contextos a se requalificarem para as novas economias."
+  },
+  {
+    "id": 55,
+    "name": "Profissional 55",
+    "role": "Desenvolvedor(a) Front-end",
+    "area": "Tecnologia",
+    "city": "São Paulo - SP",
+    "avatarInitials": "P55",
+    "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
+    "skills": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS",
+      "Empatia"
+    ],
+    "technologies": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança servidora",
+      "Gestão de tempo"
+    ],
+    "hobbies": [
+      "Meditação e mindfulness",
+      "Produção de conteúdo",
+      "Comunidades de tecnologia"
+    ],
+    "personal": {
+      "age": 26,
+      "education": "Análise e Desenvolvimento de Sistemas",
+      "institution": "FIAP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 3.3,
+      "lastRole": "Desenvolvedor(a) Front-end",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Aposta em modelos de trabalho mais flexíveis e distribuídos, em que talentos possam colaborar em projetos globais sem perder o vínculo com suas comunidades locais."
+  },
+  {
+    "id": 56,
+    "name": "Profissional 56",
+    "role": "Cientista de Dados em formação",
+    "area": "Dados & IA",
+    "city": "Rio de Janeiro - RJ",
+    "avatarInitials": "P56",
+    "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
+    "skills": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL",
+      "Liderança servidora"
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL"
+    ],
+    "softSkills": [
+      "Liderança servidora",
+      "Gestão de tempo",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Produção de conteúdo",
+      "Comunidades de tecnologia",
+      "Música e podcasts"
+    ],
+    "personal": {
+      "age": 27,
+      "education": "Sistemas de Informação",
+      "institution": "USP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 0.5,
+      "lastRole": "Cientista de Dados em formação",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Acredita que o futuro do trabalho será híbrido, colaborativo e orientado por dados, com a tecnologia como meio para potencializar competências humanas, e não substituí-las."
+  },
+  {
+    "id": 57,
+    "name": "Profissional 57",
+    "role": "Pesquisador(a) de UX",
+    "area": "Design & Experiência",
+    "city": "Belo Horizonte - MG",
+    "avatarInitials": "P57",
+    "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
+    "skills": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI",
+      "Gestão de tempo"
+    ],
+    "technologies": [
+      "Node.js",
+      "Python",
+      "SQL",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Gestão de tempo",
+      "Adaptabilidade",
+      "Visão sistêmica"
+    ],
+    "hobbies": [
+      "Comunidades de tecnologia",
+      "Música e podcasts",
+      "Culinária experimental"
+    ],
+    "personal": {
+      "age": 28,
+      "education": "Ciência de Dados",
+      "institution": "PUC-SP",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.2,
+      "lastRole": "Pesquisador(a) de UX",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Defende ambientes de trabalho inclusivos, com trilhas de desenvolvimento personalizadas e foco em bem-estar, saúde mental e autonomia."
+  },
+  {
+    "id": 58,
+    "name": "Profissional 58",
+    "role": "Analista de Negócios",
+    "area": "Gestão & Estratégia",
+    "city": "Curitiba - PR",
+    "avatarInitials": "P58",
+    "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Adaptabilidade"
+    ],
+    "technologies": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Figma"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Visão sistêmica",
+      "Criatividade"
+    ],
+    "hobbies": [
+      "Música e podcasts",
+      "Culinária experimental",
+      "Viagens culturais"
+    ],
+    "personal": {
+      "age": 29,
+      "education": "Design Digital",
+      "institution": "UFPE",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 1.9,
+      "lastRole": "Analista de Negócios",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Vê a IA como parceira do ser humano, liberando tempo para atividades criativas, empáticas e de tomada de decisão estratégica."
+  },
+  {
+    "id": 59,
+    "name": "Profissional 59",
+    "role": "Instrutor(a) de Tecnologia",
+    "area": "Educação & Impacto Social",
+    "city": "Porto Alegre - RS",
+    "avatarInitials": "P59",
+    "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "Visão sistêmica"
+    ],
+    "technologies": [
+      "SQL",
+      "Power BI",
+      "Figma",
+      "Tailwind CSS"
+    ],
+    "softSkills": [
+      "Visão sistêmica",
+      "Criatividade",
+      "Comunicação não violenta"
+    ],
+    "hobbies": [
+      "Culinária experimental",
+      "Viagens culturais",
+      "Leitura de ficção científica"
+    ],
+    "personal": {
+      "age": 30,
+      "education": "Administração com foco em Inovação",
+      "institution": "UFRGS",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 2.6,
+      "lastRole": "Instrutor(a) de Tecnologia",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Sonha em participar da construção de plataformas acessíveis de educação contínua, ajudando pessoas de diferentes contextos a se requalificarem para as novas economias."
+  },
+  {
+    "id": 60,
+    "name": "Profissional 60",
+    "role": "Especialista em Cultura & Engajamento",
+    "area": "People & Cultura",
+    "city": "Recife - PE",
+    "avatarInitials": "P60",
+    "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
+    "skills": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS",
+      "Criatividade"
+    ],
+    "technologies": [
+      "Power BI",
+      "Figma",
+      "Tailwind CSS",
+      "AWS"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação não violenta",
+      "Trabalho em equipe"
+    ],
+    "hobbies": [
+      "Viagens culturais",
+      "Leitura de ficção científica",
+      "Voluntariado em projetos sociais"
+    ],
+    "personal": {
+      "age": 31,
+      "education": "Engenharia de Computação",
+      "institution": "Universidade Federal de Minas Gerais",
+      "careerGoal": "Atuar em projetos que unam tecnologia, impacto social e desenvolvimento contínuo."
+    },
+    "experience": {
+      "years": 3.3,
+      "lastRole": "Especialista em Cultura & Engajamento",
+      "sector": "Tecnologia & Inovação"
+    },
+    "futureWorkFocus": "Aposta em modelos de trabalho mais flexíveis e distribuídos, em que talentos possam colaborar em projetos globais sem perder o vínculo com suas comunidades locais."
+  }
+]
