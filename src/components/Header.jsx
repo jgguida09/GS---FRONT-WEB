@@ -1,15 +1,19 @@
 import React from 'react'
+import logo from '../assets/logo.png' // <-- IMPORTANTE
 
 function Header() {
   return (
     <header className="bg-white/80 dark:bg-slate-900/80 backdrop-blur border-b border-slate-200/70 dark:border-slate-800 sticky top-0 z-20">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
+        
         <div className="flex items-center gap-2">
-          <div className="h-9 w-9 rounded-xl bg-gradient-to-tr from-indigo-500 via-sky-500 to-emerald-400 flex items-center justify-center shadow">
-            <span className="text-xs font-semibold text-white tracking-tight">
-              FW
-            </span>
-          </div>
+          {/* LOGO REAL */}
+          <img
+            src={logo}
+            alt="FutureWork Network"
+            className="h-9 w-9 rounded-lg object-contain shadow"
+          />
+
           <div>
             <h1 className="text-base md:text-lg font-semibold text-slate-900 dark:text-slate-100">
               FutureWork Network
@@ -25,6 +29,7 @@ function Header() {
             GS 2º Sem/2025 – Front-End Design · FIAP
           </span>
         </div>
+
       </div>
     </header>
   )
