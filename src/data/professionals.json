@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "name": "Profissional 01",
+    "name": "Lucas Arantes",
     "role": "Desenvolvedor(a) Front-end",
     "area": "Tecnologia",
     "city": "São Paulo - SP",
-    "avatarInitials": "P01",
+    "avatarInitials": "LA",
     "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
     "skills": [
       "React",
@@ -45,11 +45,11 @@
   },
   {
     "id": 2,
-    "name": "Profissional 02",
+    "name": "Marina Figueiredo",
     "role": "Cientista de Dados em formação",
     "area": "Dados & IA",
     "city": "Rio de Janeiro - RJ",
-    "avatarInitials": "P02",
+    "avatarInitials": "MF",
     "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
     "skills": [
       "Node.js",
@@ -89,11 +89,11 @@
   },
   {
     "id": 3,
-    "name": "Profissional 03",
+    "name": "Caio H. Mendonça",
     "role": "Pesquisador(a) de UX",
     "area": "Design & Experiência",
     "city": "Belo Horizonte - MG",
-    "avatarInitials": "P03",
+    "avatarInitials": "CH",
     "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
     "skills": [
       "Python",
@@ -133,11 +133,11 @@
   },
   {
     "id": 4,
-    "name": "Profissional 04",
+    "name": "Bruna Vasconcellos",
     "role": "Analista de Negócios",
     "area": "Gestão & Estratégia",
     "city": "Curitiba - PR",
-    "avatarInitials": "P04",
+    "avatarInitials": "BV",
     "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
     "skills": [
       "SQL",
@@ -177,11 +177,11 @@
   },
   {
     "id": 5,
-    "name": "Profissional 05",
+    "name": "Eduardo S. Nogueira",
     "role": "Instrutor(a) de Tecnologia",
     "area": "Educação & Impacto Social",
     "city": "Porto Alegre - RS",
-    "avatarInitials": "P05",
+    "avatarInitials": "ES",
     "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
     "skills": [
       "Power BI",
@@ -221,11 +221,11 @@
   },
   {
     "id": 6,
-    "name": "Profissional 06",
+    "name": "Letícia Moura",
     "role": "Especialista em Cultura & Engajamento",
     "area": "People & Cultura",
     "city": "Recife - PE",
-    "avatarInitials": "P06",
+    "avatarInitials": "LM",
     "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
     "skills": [
       "React",
@@ -265,11 +265,11 @@
   },
   {
     "id": 7,
-    "name": "Profissional 07",
+    "name": "Thiago S. Prado",
     "role": "Desenvolvedor(a) Front-end",
     "area": "Tecnologia",
     "city": "São Paulo - SP",
-    "avatarInitials": "P07",
+    "avatarInitials": "TS",
     "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
     "skills": [
       "Node.js",
@@ -309,11 +309,11 @@
   },
   {
     "id": 8,
-    "name": "Profissional 08",
+    "name": "Gabriela Y. Martins",
     "role": "Cientista de Dados em formação",
     "area": "Dados & IA",
     "city": "Rio de Janeiro - RJ",
-    "avatarInitials": "P08",
+    "avatarInitials": "GY",
     "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
     "skills": [
       "Python",
@@ -353,11 +353,11 @@
   },
   {
     "id": 9,
-    "name": "Profissional 09",
+    "name": "Felipe Andrade",
     "role": "Pesquisador(a) de UX",
     "area": "Design & Experiência",
     "city": "Belo Horizonte - MG",
-    "avatarInitials": "P09",
+    "avatarInitials": "FA",
     "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
     "skills": [
       "SQL",
@@ -397,11 +397,11 @@
   },
   {
     "id": 10,
-    "name": "Profissional 10",
+    "name": "Renata Monte Verde",
     "role": "Analista de Negócios",
     "area": "Gestão & Estratégia",
     "city": "Curitiba - PR",
-    "avatarInitials": "P10",
+    "avatarInitials": "RM",
     "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
     "skills": [
       "Power BI",
@@ -441,11 +441,11 @@
   },
   {
     "id": 11,
-    "name": "Profissional 11",
+    "name": "Rafael Coelho",
     "role": "Instrutor(a) de Tecnologia",
     "area": "Educação & Impacto Social",
     "city": "Porto Alegre - RS",
-    "avatarInitials": "P11",
+    "avatarInitials": "RC",
     "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
     "skills": [
       "React",
@@ -485,11 +485,11 @@
   },
   {
     "id": 12,
-    "name": "Profissional 12",
+    "name": "Patrícia Aragão",
     "role": "Especialista em Cultura & Engajamento",
     "area": "People & Cultura",
     "city": "Recife - PE",
-    "avatarInitials": "P12",
+    "avatarInitials": "PA",
     "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
     "skills": [
       "Node.js",
@@ -529,11 +529,11 @@
   },
   {
     "id": 13,
-    "name": "Profissional 13",
+    "name": "João Varella",
     "role": "Desenvolvedor(a) Front-end",
     "area": "Tecnologia",
     "city": "São Paulo - SP",
-    "avatarInitials": "P13",
+    "avatarInitials": "JV",
     "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
     "skills": [
       "Python",
@@ -573,11 +573,11 @@
   },
   {
     "id": 14,
-    "name": "Profissional 14",
+    "name": "Isabela K. Duarte",
     "role": "Cientista de Dados em formação",
     "area": "Dados & IA",
     "city": "Rio de Janeiro - RJ",
-    "avatarInitials": "P14",
+    "avatarInitials": "IK",
     "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
     "skills": [
       "SQL",
@@ -617,11 +617,11 @@
   },
   {
     "id": 15,
-    "name": "Profissional 15",
+    "name": "Mateus Granado",
     "role": "Pesquisador(a) de UX",
     "area": "Design & Experiência",
     "city": "Belo Horizonte - MG",
-    "avatarInitials": "P15",
+    "avatarInitials": "MG",
     "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
     "skills": [
       "Power BI",
@@ -661,11 +661,11 @@
   },
   {
     "id": 16,
-    "name": "Profissional 16",
+    "name": "Carolina Bastos",
     "role": "Analista de Negócios",
     "area": "Gestão & Estratégia",
     "city": "Curitiba - PR",
-    "avatarInitials": "P16",
+    "avatarInitials": "CB",
     "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
     "skills": [
       "React",
@@ -705,11 +705,11 @@
   },
   {
     "id": 17,
-    "name": "Profissional 17",
+    "name": "Vitor Sanches",
     "role": "Instrutor(a) de Tecnologia",
     "area": "Educação & Impacto Social",
     "city": "Porto Alegre - RS",
-    "avatarInitials": "P17",
+    "avatarInitials": "VS",
     "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
     "skills": [
       "Node.js",
@@ -749,11 +749,11 @@
   },
   {
     "id": 18,
-    "name": "Profissional 18",
+    "name": "Aline Tominaga",
     "role": "Especialista em Cultura & Engajamento",
     "area": "People & Cultura",
     "city": "Recife - PE",
-    "avatarInitials": "P18",
+    "avatarInitials": "AT",
     "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
     "skills": [
       "Python",
@@ -793,11 +793,11 @@
   },
   {
     "id": 19,
-    "name": "Profissional 19",
+    "name": "Hernan P. Lopes",
     "role": "Desenvolvedor(a) Front-end",
     "area": "Tecnologia",
     "city": "São Paulo - SP",
-    "avatarInitials": "P19",
+    "avatarInitials": "HP",
     "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
     "skills": [
       "SQL",
@@ -837,11 +837,11 @@
   },
   {
     "id": 20,
-    "name": "Profissional 20",
+    "name": "Juliana A. Ribeiro",
     "role": "Cientista de Dados em formação",
     "area": "Dados & IA",
     "city": "Rio de Janeiro - RJ",
-    "avatarInitials": "P20",
+    "avatarInitials": "JA",
     "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
     "skills": [
       "Power BI",
@@ -881,11 +881,11 @@
   },
   {
     "id": 21,
-    "name": "Profissional 21",
+    "name": "Daniel Oshiro",
     "role": "Pesquisador(a) de UX",
     "area": "Design & Experiência",
     "city": "Belo Horizonte - MG",
-    "avatarInitials": "P21",
+    "avatarInitials": "DO",
     "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
     "skills": [
       "React",
@@ -925,11 +925,11 @@
   },
   {
     "id": 22,
-    "name": "Profissional 22",
+    "name": "Natália Freire",
     "role": "Analista de Negócios",
     "area": "Gestão & Estratégia",
     "city": "Curitiba - PR",
-    "avatarInitials": "P22",
+    "avatarInitials": "NF",
     "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
     "skills": [
       "Node.js",
@@ -969,11 +969,11 @@
   },
   {
     "id": 23,
-    "name": "Profissional 23",
+    "name": "Marcelo Quintana",
     "role": "Instrutor(a) de Tecnologia",
     "area": "Educação & Impacto Social",
     "city": "Porto Alegre - RS",
-    "avatarInitials": "P23",
+    "avatarInitials": "MQ",
     "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
     "skills": [
       "Python",
@@ -1013,11 +1013,11 @@
   },
   {
     "id": 24,
-    "name": "Profissional 24",
+    "name": "Sofia Brandão",
     "role": "Especialista em Cultura & Engajamento",
     "area": "People & Cultura",
     "city": "Recife - PE",
-    "avatarInitials": "P24",
+    "avatarInitials": "SB",
     "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
     "skills": [
       "SQL",
@@ -1057,11 +1057,11 @@
   },
   {
     "id": 25,
-    "name": "Profissional 25",
+    "name": "Henrique Toledo",
     "role": "Desenvolvedor(a) Front-end",
     "area": "Tecnologia",
     "city": "São Paulo - SP",
-    "avatarInitials": "P25",
+    "avatarInitials": "HT",
     "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
     "skills": [
       "Power BI",
@@ -1101,11 +1101,11 @@
   },
   {
     "id": 26,
-    "name": "Profissional 26",
+    "name": "Laura M. Kawano",
     "role": "Cientista de Dados em formação",
     "area": "Dados & IA",
     "city": "Rio de Janeiro - RJ",
-    "avatarInitials": "P26",
+    "avatarInitials": "LM",
     "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
     "skills": [
       "React",
@@ -1145,11 +1145,11 @@
   },
   {
     "id": 27,
-    "name": "Profissional 27",
+    "name": "Pedro V. Amaral",
     "role": "Pesquisador(a) de UX",
     "area": "Design & Experiência",
     "city": "Belo Horizonte - MG",
-    "avatarInitials": "P27",
+    "avatarInitials": "PV",
     "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
     "skills": [
       "Node.js",
@@ -1189,11 +1189,11 @@
   },
   {
     "id": 28,
-    "name": "Profissional 28",
+    "name": "Camila U. Ramos",
     "role": "Analista de Negócios",
     "area": "Gestão & Estratégia",
     "city": "Curitiba - PR",
-    "avatarInitials": "P28",
+    "avatarInitials": "CU",
     "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
     "skills": [
       "Python",
@@ -1233,11 +1233,11 @@
   },
   {
     "id": 29,
-    "name": "Profissional 29",
+    "name": "Leandro Matsui",
     "role": "Instrutor(a) de Tecnologia",
     "area": "Educação & Impacto Social",
     "city": "Porto Alegre - RS",
-    "avatarInitials": "P29",
+    "avatarInitials": "LM",
     "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
     "skills": [
       "SQL",
@@ -1277,11 +1277,11 @@
   },
   {
     "id": 30,
-    "name": "Profissional 30",
+    "name": "Roberta C. Alves",
     "role": "Especialista em Cultura & Engajamento",
     "area": "People & Cultura",
     "city": "Recife - PE",
-    "avatarInitials": "P30",
+    "avatarInitials": "RC",
     "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
     "skills": [
       "Power BI",
@@ -1321,11 +1321,11 @@
   },
   {
     "id": 31,
-    "name": "Profissional 31",
+    "name": "Igor S. Armond",
     "role": "Desenvolvedor(a) Front-end",
     "area": "Tecnologia",
     "city": "São Paulo - SP",
-    "avatarInitials": "P31",
+    "avatarInitials": "IS",
     "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
     "skills": [
       "React",
@@ -1365,11 +1365,11 @@
   },
   {
     "id": 32,
-    "name": "Profissional 32",
+    "name": "Beatriz T. Guimarães",
     "role": "Cientista de Dados em formação",
     "area": "Dados & IA",
     "city": "Rio de Janeiro - RJ",
-    "avatarInitials": "P32",
+    "avatarInitials": "BT",
     "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
     "skills": [
       "Node.js",
@@ -1409,11 +1409,11 @@
   },
   {
     "id": 33,
-    "name": "Profissional 33",
+    "name": "Alex Carvalho",
     "role": "Pesquisador(a) de UX",
     "area": "Design & Experiência",
     "city": "Belo Horizonte - MG",
-    "avatarInitials": "P33",
+    "avatarInitials": "AC",
     "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
     "skills": [
       "Python",
@@ -1453,11 +1453,11 @@
   },
   {
     "id": 34,
-    "name": "Profissional 34",
+    "name": "Tatiane F. Rios",
     "role": "Analista de Negócios",
     "area": "Gestão & Estratégia",
     "city": "Curitiba - PR",
-    "avatarInitials": "P34",
+    "avatarInitials": "TF",
     "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
     "skills": [
       "SQL",
@@ -1497,11 +1497,11 @@
   },
   {
     "id": 35,
-    "name": "Profissional 35",
+    "name": "Rodrigo Massaru",
     "role": "Instrutor(a) de Tecnologia",
     "area": "Educação & Impacto Social",
     "city": "Porto Alegre - RS",
-    "avatarInitials": "P35",
+    "avatarInitials": "RM",
     "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
     "skills": [
       "Power BI",
@@ -1541,11 +1541,11 @@
   },
   {
     "id": 36,
-    "name": "Profissional 36",
+    "name": "Fernanda S. Igarashi",
     "role": "Especialista em Cultura & Engajamento",
     "area": "People & Cultura",
     "city": "Recife - PE",
-    "avatarInitials": "P36",
+    "avatarInitials": "FS",
     "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
     "skills": [
       "React",
@@ -1585,11 +1585,11 @@
   },
   {
     "id": 37,
-    "name": "Profissional 37",
+    "name": "Hugo U. Pereira",
     "role": "Desenvolvedor(a) Front-end",
     "area": "Tecnologia",
     "city": "São Paulo - SP",
-    "avatarInitials": "P37",
+    "avatarInitials": "HU",
     "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
     "skills": [
       "Node.js",
@@ -1629,11 +1629,11 @@
   },
   {
     "id": 38,
-    "name": "Profissional 38",
+    "name": "Letícia Zen",
     "role": "Cientista de Dados em formação",
     "area": "Dados & IA",
     "city": "Rio de Janeiro - RJ",
-    "avatarInitials": "P38",
+    "avatarInitials": "LZ",
     "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
     "skills": [
       "Python",
@@ -1673,11 +1673,11 @@
   },
   {
     "id": 39,
-    "name": "Profissional 39",
+    "name": "Diego V. Camargo",
     "role": "Pesquisador(a) de UX",
     "area": "Design & Experiência",
     "city": "Belo Horizonte - MG",
-    "avatarInitials": "P39",
+    "avatarInitials": "DV",
     "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
     "skills": [
       "SQL",
@@ -1717,11 +1717,11 @@
   },
   {
     "id": 40,
-    "name": "Profissional 40",
+    "name": "Ana Flávia Serra",
     "role": "Analista de Negócios",
     "area": "Gestão & Estratégia",
     "city": "Curitiba - PR",
-    "avatarInitials": "P40",
+    "avatarInitials": "AF",
     "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
     "skills": [
       "Power BI",
@@ -1761,11 +1761,11 @@
   },
   {
     "id": 41,
-    "name": "Profissional 41",
+    "name": "Gustavo Kawahara",
     "role": "Instrutor(a) de Tecnologia",
     "area": "Educação & Impacto Social",
     "city": "Porto Alegre - RS",
-    "avatarInitials": "P41",
+    "avatarInitials": "GK",
     "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
     "skills": [
       "React",
@@ -1805,11 +1805,11 @@
   },
   {
     "id": 42,
-    "name": "Profissional 42",
+    "name": "Viviane Lopes",
     "role": "Especialista em Cultura & Engajamento",
     "area": "People & Cultura",
     "city": "Recife - PE",
-    "avatarInitials": "P42",
+    "avatarInitials": "VL",
     "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
     "skills": [
       "Node.js",
@@ -1849,11 +1849,11 @@
   },
   {
     "id": 43,
-    "name": "Profissional 43",
+    "name": "Samuel Costa",
     "role": "Desenvolvedor(a) Front-end",
     "area": "Tecnologia",
     "city": "São Paulo - SP",
-    "avatarInitials": "P43",
+    "avatarInitials": "SC",
     "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
     "skills": [
       "Python",
@@ -1893,11 +1893,11 @@
   },
   {
     "id": 44,
-    "name": "Profissional 44",
+    "name": "Priscila N. Gomes",
     "role": "Cientista de Dados em formação",
     "area": "Dados & IA",
     "city": "Rio de Janeiro - RJ",
-    "avatarInitials": "P44",
+    "avatarInitials": "PN",
     "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
     "skills": [
       "SQL",
@@ -1937,11 +1937,11 @@
   },
   {
     "id": 45,
-    "name": "Profissional 45",
+    "name": "Leonardo K. Azevedo",
     "role": "Pesquisador(a) de UX",
     "area": "Design & Experiência",
     "city": "Belo Horizonte - MG",
-    "avatarInitials": "P45",
+    "avatarInitials": "LK",
     "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
     "skills": [
       "Power BI",
@@ -1981,11 +1981,11 @@
   },
   {
     "id": 46,
-    "name": "Profissional 46",
+    "name": "Helena B. Mota",
     "role": "Analista de Negócios",
     "area": "Gestão & Estratégia",
     "city": "Curitiba - PR",
-    "avatarInitials": "P46",
+    "avatarInitials": "HB",
     "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
     "skills": [
       "React",
@@ -2025,11 +2025,11 @@
   },
   {
     "id": 47,
-    "name": "Profissional 47",
+    "name": "Otávio Rezende",
     "role": "Instrutor(a) de Tecnologia",
     "area": "Educação & Impacto Social",
     "city": "Porto Alegre - RS",
-    "avatarInitials": "P47",
+    "avatarInitials": "OR",
     "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
     "skills": [
       "Node.js",
@@ -2069,11 +2069,11 @@
   },
   {
     "id": 48,
-    "name": "Profissional 48",
+    "name": "Carla Ishida",
     "role": "Especialista em Cultura & Engajamento",
     "area": "People & Cultura",
     "city": "Recife - PE",
-    "avatarInitials": "P48",
+    "avatarInitials": "CI",
     "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
     "skills": [
       "Python",
@@ -2113,11 +2113,11 @@
   },
   {
     "id": 49,
-    "name": "Profissional 49",
+    "name": "Bruno Maia",
     "role": "Desenvolvedor(a) Front-end",
     "area": "Tecnologia",
     "city": "São Paulo - SP",
-    "avatarInitials": "P49",
+    "avatarInitials": "BM",
     "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
     "skills": [
       "SQL",
@@ -2157,11 +2157,11 @@
   },
   {
     "id": 50,
-    "name": "Profissional 50",
+    "name": "Elisa Sotero",
     "role": "Cientista de Dados em formação",
     "area": "Dados & IA",
     "city": "Rio de Janeiro - RJ",
-    "avatarInitials": "P50",
+    "avatarInitials": "ES",
     "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
     "skills": [
       "Power BI",
@@ -2201,11 +2201,11 @@
   },
   {
     "id": 51,
-    "name": "Profissional 51",
+    "name": "Ruan Fernandes",
     "role": "Pesquisador(a) de UX",
     "area": "Design & Experiência",
     "city": "Belo Horizonte - MG",
-    "avatarInitials": "P51",
+    "avatarInitials": "RF",
     "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
     "skills": [
       "React",
@@ -2245,11 +2245,11 @@
   },
   {
     "id": 52,
-    "name": "Profissional 52",
+    "name": "Jéssica Antunes",
     "role": "Analista de Negócios",
     "area": "Gestão & Estratégia",
     "city": "Curitiba - PR",
-    "avatarInitials": "P52",
+    "avatarInitials": "JA",
     "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
     "skills": [
       "Node.js",
@@ -2289,11 +2289,11 @@
   },
   {
     "id": 53,
-    "name": "Profissional 53",
+    "name": "Maurício Seabra",
     "role": "Instrutor(a) de Tecnologia",
     "area": "Educação & Impacto Social",
     "city": "Porto Alegre - RS",
-    "avatarInitials": "P53",
+    "avatarInitials": "MS",
     "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
     "skills": [
       "Python",
@@ -2333,11 +2333,11 @@
   },
   {
     "id": 54,
-    "name": "Profissional 54",
+    "name": "Danielle M. Okada",
     "role": "Especialista em Cultura & Engajamento",
     "area": "People & Cultura",
     "city": "Recife - PE",
-    "avatarInitials": "P54",
+    "avatarInitials": "DM",
     "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
     "skills": [
       "SQL",
@@ -2377,11 +2377,11 @@
   },
   {
     "id": 55,
-    "name": "Profissional 55",
+    "name": "Caio R. Duarte",
     "role": "Desenvolvedor(a) Front-end",
     "area": "Tecnologia",
     "city": "São Paulo - SP",
-    "avatarInitials": "P55",
+    "avatarInitials": "CR",
     "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
     "skills": [
       "Power BI",
@@ -2421,11 +2421,11 @@
   },
   {
     "id": 56,
-    "name": "Profissional 56",
+    "name": "Manuela Freitas",
     "role": "Cientista de Dados em formação",
     "area": "Dados & IA",
     "city": "Rio de Janeiro - RJ",
-    "avatarInitials": "P56",
+    "avatarInitials": "MF",
     "summary": "Profissional em início de carreira, apaixonado(a) por tecnologia aplicada ao impacto social, buscando ambientes colaborativos e projetos que unam inovação e propósito.",
     "skills": [
       "React",
@@ -2465,11 +2465,11 @@
   },
   {
     "id": 57,
-    "name": "Profissional 57",
+    "name": "Sérgio T. Nakano",
     "role": "Pesquisador(a) de UX",
     "area": "Design & Experiência",
     "city": "Belo Horizonte - MG",
-    "avatarInitials": "P57",
+    "avatarInitials": "ST",
     "summary": "Atua em times multidisciplinares, conectando dados, pessoas e negócios, com foco em gerar valor real para clientes e usuários finais.",
     "skills": [
       "Node.js",
@@ -2509,11 +2509,11 @@
   },
   {
     "id": 58,
-    "name": "Profissional 58",
+    "name": "Patrícia Z. Mello",
     "role": "Analista de Negócios",
     "area": "Gestão & Estratégia",
     "city": "Curitiba - PR",
-    "avatarInitials": "P58",
+    "avatarInitials": "PZ",
     "summary": "Constrói soluções centradas no usuário e acredita em trabalho em equipe, feedback contínuo e aprendizado ao longo da vida como pilares do futuro do trabalho.",
     "skills": [
       "Python",
@@ -2553,11 +2553,11 @@
   },
   {
     "id": 59,
-    "name": "Profissional 59",
+    "name": "Eduardo Akamine",
     "role": "Instrutor(a) de Tecnologia",
     "area": "Educação & Impacto Social",
     "city": "Porto Alegre - RS",
-    "avatarInitials": "P59",
+    "avatarInitials": "EA",
     "summary": "Tem interesse em ambientes híbridos, cultura de autonomia e times distribuídos, usando tecnologia para reduzir desigualdades e ampliar oportunidades.",
     "skills": [
       "SQL",
@@ -2597,11 +2597,11 @@
   },
   {
     "id": 60,
-    "name": "Profissional 60",
+    "name": "Silvia R. Yoshida",
     "role": "Especialista em Cultura & Engajamento",
     "area": "People & Cultura",
     "city": "Recife - PE",
-    "avatarInitials": "P60",
+    "avatarInitials": "SR",
     "summary": "Focado(a) em desenvolvimento contínuo, participa de comunidades, eventos e bootcamps, sempre explorando novas tendências do ecossistema digital.",
     "skills": [
       "Power BI",
