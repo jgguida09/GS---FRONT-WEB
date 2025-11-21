@@ -83,7 +83,7 @@ function App() {
             </h2>
             <p className="text-sm md:text-base text-textDark/70 dark:text-textLight/70 mt-1 max-w-2xl">
               Explore profissionais alinhados à inovação, impacto social e tecnologia.
-              Busque por área, cidade ou tecnologia e descubra novas conexões.
+              Busque por Área, cidade ou tecnologia e descubra novas conexões.
             </p>
           </div>
 
